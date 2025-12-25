@@ -83,6 +83,3 @@ It is hosted as a **static website on Amazon S3** and delivered globally using *
 This project helped me understand **real-world cloud deployment** using AWS services.  
 Hosting my portfolio on AWS strengthened my knowledge of **S3, CloudFront, security, and CDN concepts**, and improved my confidence in deploying production-ready cloud applications.
 
----
-
-✨ *Learning, experimenting, and growing in the cloud space*
