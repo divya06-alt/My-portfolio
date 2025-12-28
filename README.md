@@ -31,7 +31,7 @@ It is hosted as a **static website on Amazon S3** and delivered globally using *
 ## 🔗 Live Website Links
 
 - **S3 Website (Origin):**  
-  👉 [View Link]https://divya-portoflio-website.s3.eu-north-1.amazonaws.com/Index.html
+  👉 https://divya-portoflio-website.s3.eu-north-1.amazonaws.com/Index.html
 
 
 ## 🎯 Skills Gained
@@ -50,7 +50,7 @@ It is hosted as a **static website on Amazon S3** and delivered globally using *
 - Designed a responsive portfolio website using **HTML, CSS, and JavaScript**
 - Included the following sections:
   - About Me  
-  - Skills  
+  - Skill 
   - Certifications  
   - Projects  
   - Contact Details  
